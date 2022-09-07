@@ -1,4 +1,4 @@
-#glowing-eureka
+# glowing-eureka
 
 Link back to repo: https://github.com/mindy-m/glowing-eureka
 
